@@ -24,9 +24,9 @@ TascaS2.03/
 │   └── diagrama.drawio
 │
 └── La_Pampara_TakeAway/
-   ├── *.bson
-   ├── *.metadata.json
-   └── diagrama.drawio
+    ├── *.bson
+    ├── *.metadata.json
+    └── diagrama.drawio
 ```
 
 ## Contents
