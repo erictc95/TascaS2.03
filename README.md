@@ -6,23 +6,28 @@ This repository contains MongoDB database backups along with their corresponding
 
 Each folder represents an independent database:
 
+## Repository Structure
+
+Each folder represents an independent database:
+
+```
 TascaS2.03/
 │
 ├── optics_cul_dampolla/
-│ ├── *.bson
-│ ├── *.metadata.json
-│ └── diagrama.drawio
+│   ├── *.bson
+│   ├── *.metadata.json
+│   └── diagrama.drawio
 │
 ├── optics_cul_dampolla-Glasses/
-│ ├── *.bson
-│ ├── *.metadata.json
-│ └── diagrama.drawio
+│   ├── *.bson
+│   ├── *.metadata.json
+│   └── diagrama.drawio
 │
 ├── La_Pampara_TakeAway/
-│ ├── *.bson
-│ ├── *.metadata.json
-│ └── diagrama.drawio
-
+│   ├── *.bson
+│   ├── *.metadata.json
+│   └── diagrama.drawio
+```
 
 ## Contents
 
