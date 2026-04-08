@@ -23,10 +23,10 @@ TascaS2.03/
 │   ├── *.metadata.json
 │   └── diagrama.drawio
 │
-├── La_Pampara_TakeAway/
-│   ├── *.bson
-│   ├── *.metadata.json
-│   └── diagrama.drawio
+└── La_Pampara_TakeAway/
+   ├── *.bson
+   ├── *.metadata.json
+   └── diagrama.drawio
 ```
 
 ## Contents
