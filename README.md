@@ -6,10 +6,6 @@ This repository contains MongoDB database backups along with their corresponding
 
 Each folder represents an independent database:
 
-## Repository Structure
-
-Each folder represents an independent database:
-
 ```
 TascaS2.03/
 │
