@@ -56,7 +56,7 @@ mongorestore /path/to/folder
 
 Example:
 
-mongorestore ./optics_cul_dampolla
+mongorestore ./optics_cul_d'ampolla
 
 
 ## Author
