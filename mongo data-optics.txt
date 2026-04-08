@@ -1,0 +1,18 @@
+suppliers
+rayban 69c3dd9fec3fff4fc3463321
+oakley 69c3caf7ec3fff4fc34632fa
+
+customers
+Eric 69c3c69cec3fff4fc34632f5
+Silvia 69c3d94eec3fff4fc3463318
+Carlos 69c3dbf3ec3fff4fc346331b
+
+employees
+Alba 69c3d54eec3fff4fc346330d
+Laura 69c3d4d5ec3fff4fc3463309
+
+glasses
+Reef 69c3d194ec3fff4fc3463305
+RayBan 69c50621a41783eb4729aba7
+Dolce&Gabbana 69c50883a41783eb4729abaf
+Oakley 69c50ae2a41783eb4729abb1

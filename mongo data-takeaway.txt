@@ -1,0 +1,16 @@
+Customer
+John 69c5cb3c9dd6d540176e08bb
+Marc 69c5de069dd6d540176e08f7
+
+Stores
+Store 69c5d18c9dd6d540176e08c8
+
+Products
+Pizza BBQ 69c5cbed9dd6d540176e08c3
+Coke 69c5d5f99dd6d540176e08d8
+Burger 69c5d6889dd6d540176e08da
+
+Employees
+Anna Delivery 69c5d1c09dd6d540176e08cb
+Elisabeth Cook 69c5daa49dd6d540176e08e3
+Pamela Cook 69c5db8f9dd6d540176e08e9
